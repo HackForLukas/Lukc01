@@ -36,7 +36,7 @@ def menu():
 |_____\___/|_|\_\____\___/|_|
 	\033[0m""")
 	print("\033[33m[01]\033[0m TCP ATTACK (DDOS)")
-	print("\033[33m[02]\033[0m UDP ATTACK (DDOS")
+	print("\033[33m[02]\033[0m UDP ATTACK (DDOS)")
 	print("\033[33m[03]\033[0m IP DROP (IPTABLES)")
 	print("\n\033[33m[99]\033[0m EXIT")
 	ch = input("\nChoice: \033[33m")
